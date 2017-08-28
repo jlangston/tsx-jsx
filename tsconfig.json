@@ -3,6 +3,7 @@
     "module": "es2015",
     "target": "esnext",
     "jsx": "react-native",
+    "checkJs": true,    
     "strictNullChecks": true,
     "allowSyntheticDefaultImports": true,
     "allowJs": true,
